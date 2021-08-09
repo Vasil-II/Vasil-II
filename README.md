@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vasil-II {Vasilii Seliverstov}
+- 👋 Hi, I’m @Vasil-II {Vasiliy}
 - 👀 I’m interested in Quality Assurance.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on a startup or a mature project wherever you're from.
